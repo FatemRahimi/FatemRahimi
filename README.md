@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Google Meet](https://img.shields.io/badge/-GoogleMeet-32A350?style=flat-square&logo=google-meet)
+![Loading](https://github.com/yourusername/yourrepository/raw/main/path_to_your_gif.gif)
+
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemRahimi &layout=compact)
 
