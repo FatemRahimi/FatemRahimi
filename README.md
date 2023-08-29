@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemRahimi & layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemRahimi&layout=compact)
 ![Profile views](https://gpvc.arturio.dev/FatemRahimi)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FatemRahimi & show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FatemRahimi&show_icons=true)
 
 
