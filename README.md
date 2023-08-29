@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Google Meet](https://img.shields.io/badge/-GoogleMeet-32A350?style=flat-square&logo=google-meet)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=[FatemRahimi]&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemRahimi &layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/[FatemRahimi])
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[FatemRahimi]&show_icons=true)
